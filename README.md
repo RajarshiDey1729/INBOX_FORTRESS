@@ -168,17 +168,6 @@ Current limitations include:
 - No continuous/online model training.
 - Performance depends strongly on the dataset.
 
-## Future Improvements
-
-Possible extensions include:
-
-- Precision, recall and F1-score.
-- Confusion matrix visualization.
-- Comparison with Multinomial Naive Bayes and TF-IDF.
-- Better text preprocessing.
-- Model saving/loading.
-- Batch prediction.
-- Improved GUI visualizations.
 
 ## License
 
