@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# VS Code
+.vscode/
+
+# PyCharm / IntelliJ
+.idea/
+
+# Generated Excel result files
+Results2.xlsx
+Results_GUI.xlsx
+
+# Python build files
+*.egg-info/
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
