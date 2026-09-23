@@ -168,6 +168,14 @@ Current limitations include:
 - No continuous/online model training.
 - Performance depends strongly on the dataset.
 
+## Possible Future Improvements
+•	Add precision, recall, F1-score, confusion matrix, and ROC-AUC where appropriate.
+•	Add stronger text preprocessing such as stop-word handling and normalization.
+•	Compare Bernoulli Naive Bayes with Multinomial Naive Bayes or TF-IDF-based classifiers.
+•	Add model persistence so a trained model can be reused without retraining.
+•	Improve the GUI with clearer validation, visual statistics, and batch prediction.
+
+
 
 ## License
 
